@@ -5,6 +5,8 @@ To Do list app built with React Js and using React Hooks.
 # Demo
 👉 https://marielleia.github.io/todolist/
 
+<img src="/public/todolist.JPG"  width= 500px/>
+
 ## Stack
 
 - [React.js](https://es.reactjs.org/)
